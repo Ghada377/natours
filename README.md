@@ -32,5 +32,5 @@
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/natours.git
+   git clone https://github.com/Ghada377/natours.git
    cd natours
